@@ -1,0 +1,5 @@
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploInterfaces1\bin\Debug\EjemploInterfaces1.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploInterfaces1\bin\Debug\EjemploInterfaces1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploInterfaces1\bin\Debug\EjemploInterfaces1.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploInterfaces1\obj\Debug\EjemploInterfaces1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploInterfaces1\obj\Debug\EjemploInterfaces1.pdb

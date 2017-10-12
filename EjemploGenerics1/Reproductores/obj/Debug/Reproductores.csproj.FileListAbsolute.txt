@@ -1,0 +1,6 @@
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\Reproductores\bin\Debug\Reproductores.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\Reproductores\bin\Debug\Reproductores.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\Reproductores\bin\Debug\Reproductores.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\Reproductores\obj\Debug\Reproductores.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\Reproductores\obj\Debug\Reproductores.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\EjemploGenerics1\Reproductores\obj\Debug\Reproductores.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.pdb
