@@ -50,5 +50,12 @@ namespace Reproductores
             return "";
         }
 
+        public String QueSoy()
+        {
+            return "Soy Walcman";
+        }
+
+        
+
     }
 }

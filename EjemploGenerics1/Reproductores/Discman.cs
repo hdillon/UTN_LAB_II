@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Reproductores
 {
-    public class Discman : Reproductor, IReproductor
+    public class Discman : Reproductor, IReproductor, IOtraInterfaz
     {
         private Cancion[] cd;
 
@@ -91,6 +91,22 @@ namespace Reproductores
                 sb.AppendLine(c.Mostrar());
             }
             return sb.ToString();
+        }
+
+        public String QueSoy()
+        {
+            return "Soy Discman";
+        }
+
+
+        String IReproductor.QueSoy()
+        {
+            return "Soy IReproductor";
+        }
+
+        String IOtraInterfaz.QueSoy()
+        {
+            return "Soy IOtraInterfaz";
         }
 
 

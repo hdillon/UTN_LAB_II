@@ -13,6 +13,7 @@ namespace Reproductores
             Discman discman1 = new Discman(10, 2);
             Reproductor discman2 = new Discman(10, 10);
             IReproductor discman3 = new Discman(20, 20);
+            IOtraInterfaz discman4 = new Discman(20, 20);
 
             Cancion c1 = new Cancion("Autor1", "Título1");
             Cancion c2 = new Cancion("Autor2", "Título2");
@@ -49,6 +50,11 @@ namespace Reproductores
             {
                 Console.WriteLine(e.Message);
             }
+
+            Console.WriteLine(discman1.QueSoy());
+            Console.WriteLine(((IOtraInterfaz)discman1).QueSoy());
+            Console.WriteLine(discman3.QueSoy());
+            Console.WriteLine(discman4.QueSoy());
 
 
 

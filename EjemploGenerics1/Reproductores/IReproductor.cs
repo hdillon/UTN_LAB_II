@@ -8,6 +8,7 @@ namespace Reproductores
 {
     public interface IReproductor
     {
+
         int Bateria
         {
             get;
@@ -30,5 +31,7 @@ namespace Reproductores
         String BajarVolumen();
 
         String Mostrar();
+
+        String QueSoy();
     }
 }

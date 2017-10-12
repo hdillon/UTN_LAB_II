@@ -44,6 +44,7 @@
   <ItemGroup>
     <Compile Include="Cancion.cs" />
     <Compile Include="Discman.cs" />
+    <Compile Include="IOtraInterfaz.cs" />
     <Compile Include="Ipod.cs" />
     <Compile Include="IReproductor.cs" />
     <Compile Include="Program.cs" />
