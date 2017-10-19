@@ -1,0 +1,13 @@
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\bin\Debug\BibliotecaSerializacion.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\bin\Debug\BibliotecaSerializacion.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\bin\Debug\BibliotecaSerializacion.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\bin\Debug\ClasesSerializacion.dll
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\bin\Debug\ClasesSerializacion.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.FormPrincipal.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.FormBiblioteca.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\BibliotecaSerializacion\obj\Debug\BibliotecaSerializacion.FormNuevoLibro.resources

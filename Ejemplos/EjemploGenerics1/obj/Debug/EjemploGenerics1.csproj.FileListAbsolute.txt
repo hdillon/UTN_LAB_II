@@ -1,0 +1,16 @@
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe.config
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.pdb
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.exe
+c:\users\horacio\documents\visual studio 2017\Projects\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\EjemploGenerics1\EjemploGenerics1\bin\Debug\EjemploGenerics1.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\EjemploGenerics1\EjemploGenerics1\obj\Debug\EjemploGenerics1.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\bin\Debug\EjemploGenerics1.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\bin\Debug\EjemploGenerics1.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\obj\Debug\EjemploGenerics1.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\obj\Debug\EjemploGenerics1.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploGenerics1\obj\Debug\EjemploGenerics1.pdb
