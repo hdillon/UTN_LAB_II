@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClasesSerializacion", "Clas
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploBD", "EjemploBD\EjemploBD.csproj", "{CA996BC3-F9A4-4F98-9C4B-E6FFF8C260B4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjemploThreads", "EjemploThreads\EjemploThreads.csproj", "{93417084-457F-49A0-BD10-70C5DE6028CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{CA996BC3-F9A4-4F98-9C4B-E6FFF8C260B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CA996BC3-F9A4-4F98-9C4B-E6FFF8C260B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CA996BC3-F9A4-4F98-9C4B-E6FFF8C260B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{93417084-457F-49A0-BD10-70C5DE6028CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{93417084-457F-49A0-BD10-70C5DE6028CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{93417084-457F-49A0-BD10-70C5DE6028CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{93417084-457F-49A0-BD10-70C5DE6028CF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
