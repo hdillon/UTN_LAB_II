@@ -1,0 +1,9 @@
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\bin\Debug\EjemploEventos2.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\bin\Debug\EjemploEventos2.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\bin\Debug\EjemploEventos2.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos2\obj\Debug\EjemploEventos2.FormPersona.resources

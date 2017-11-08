@@ -1,0 +1,9 @@
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\bin\Debug\EjemploEventos.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\bin\Debug\EjemploEventos.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\bin\Debug\EjemploEventos.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.csprojResolveAssemblyReference.cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.FormPrincipal.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.Properties.Resources.resources
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.csproj.GenerateResource.Cache
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploEventos\obj\Debug\EjemploEventos.pdb

@@ -67,7 +67,7 @@ namespace EjemploThreads
             t1.Join();
             t2.Start();
             t3.Start();
-            //t1.Join();
+  
 
             /*
             for (int i = 0; i < 10; i++)
