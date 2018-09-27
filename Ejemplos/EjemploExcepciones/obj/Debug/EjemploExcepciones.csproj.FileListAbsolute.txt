@@ -1,0 +1,6 @@
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe.config
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\bin\Debug\EjemploExcepciones.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\bin\Debug\EjemploExcepciones.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.exe
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.pdb
+C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploExcepciones\obj\Debug\EjemploExcepciones.csprojResolveAssemblyReference.cache
