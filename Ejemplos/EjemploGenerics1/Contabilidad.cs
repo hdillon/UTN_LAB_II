@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjemploGenerics1
 {
-    public class Contabilidad <T, U> where U : new()
+    public class Contabilidad <T, U> where U : Documento, new() where T : Documento
     {
         private List<T> egresos;
         private List<U> ingresos;

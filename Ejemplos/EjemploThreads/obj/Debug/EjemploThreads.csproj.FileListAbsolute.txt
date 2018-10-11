@@ -1,6 +1,0 @@
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\bin\Debug\EjemploThreads.exe.config
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\bin\Debug\EjemploThreads.exe
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\bin\Debug\EjemploThreads.pdb
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\obj\Debug\EjemploThreads.exe
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\obj\Debug\EjemploThreads.pdb
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploThreads\obj\Debug\EjemploThreads.csprojResolveAssemblyReference.cache

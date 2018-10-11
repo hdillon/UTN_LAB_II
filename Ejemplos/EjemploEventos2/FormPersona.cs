@@ -22,7 +22,7 @@ namespace EjemploEventos2
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            
+            Notificar += NotificarCambio;
         }
 
         private void btnFormulario_Click(object sender, EventArgs e)

@@ -4,17 +4,19 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace EjemploGenerics1
+namespace EntidadesSemaforo
 {
-    public class Recibo : Documento
+    public class Vehiculo
     {
+        private string modelo;
+        private string marca;
 
-        public Recibo() : base (0)
+        public void Arrancar()
         {
 
         }
 
-        public Recibo(int numero) : base(numero)
+        public void Frenar()
         {
 
         }

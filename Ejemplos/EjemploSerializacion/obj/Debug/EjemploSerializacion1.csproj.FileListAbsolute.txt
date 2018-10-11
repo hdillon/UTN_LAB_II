@@ -1,5 +1,0 @@
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploSerializacion\bin\Debug\EjemploSerializacion.exe.config
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploSerializacion\bin\Debug\EjemploSerializacion.exe
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploSerializacion\bin\Debug\EjemploSerializacion.pdb
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploSerializacion\obj\Debug\EjemploSerializacion.exe
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\EjemploSerializacion\obj\Debug\EjemploSerializacion.pdb

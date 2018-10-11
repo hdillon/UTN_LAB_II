@@ -17,7 +17,7 @@ namespace EjemploExcepciones
                 Console.WriteLine("Gasolina actual: " + auto.CargarGasolina());
                 Console.WriteLine("Gasolina actual: " + auto.CargarGasolina());
                 Console.WriteLine("Gasolina actual: " + auto.CargarGasolina());
-                //Console.WriteLine("Gasolina actual: " + auto.CargarGasolina());
+                Console.WriteLine("Gasolina actual: " + auto.CargarGasolina());
             }
             catch (Exception e)
             {

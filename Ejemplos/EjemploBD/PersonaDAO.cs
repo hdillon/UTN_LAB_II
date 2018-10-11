@@ -10,7 +10,8 @@ namespace EjemploBD
 {
     public class PersonaDAO
     {
-        private static String cadenaDeConexion = Properties.Settings.Default.MiCadenaDeConexion;
+        //        private static String cadenaDeConexion = Properties.Settings.Default.MiCadenaDeConexion;
+        private static String cadenaDeConexion = "Data Source=DESKTOP-UBQTB8S\\SQLEXPRESS;Initial Catalog=mibase;Integrated Security=True";
         private static SqlConnection conexion;
         private static SqlCommand comando;
         

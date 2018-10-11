@@ -19,13 +19,13 @@ namespace EjemploGenerics1
             contabilidad = contabilidad + r1;
 
             Console.WriteLine("\n Egresos:");
-            foreach(Factura f in contabilidad.Egresos)
+            foreach(Documento f in contabilidad.Egresos)
             {
                 Console.WriteLine(f.Numero);
             }
 
             Console.WriteLine("\n\n Ingresos:");
-            foreach (Recibo r in contabilidad.Ingresos)
+            foreach (Documento r in contabilidad.Ingresos)
             {
                 Console.WriteLine(r.Numero);
             }

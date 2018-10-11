@@ -11,10 +11,22 @@ namespace EjemploExcepciones
         private string descripcion;
         private TanqueDeGasolina tanque;
 
-        public AutoMovil(string descripcion)
+        private AutoMovil()
+        {
+            this.tanque = new TanqueDeGasolina(3);
+        }
+
+        public AutoMovil(string descripcion):this()
         {
             this.descripcion = descripcion;
-            this.tanque = new TanqueDeGasolina(3);
+        }
+
+        public TanqueDeGasolina Tanque
+        {
+            get
+            {
+                return this.tanque;
+            }
         }
 
         public string Acelerar()

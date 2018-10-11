@@ -1,5 +1,0 @@
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\ClasesSerializacion\bin\Debug\ClasesSerializacion.dll
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\ClasesSerializacion\bin\Debug\ClasesSerializacion.pdb
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\ClasesSerializacion\obj\Debug\ClasesSerializacion.dll
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\ClasesSerializacion\obj\Debug\ClasesSerializacion.pdb
-C:\Users\Horacio\Documents\Visual Studio 2017\Projects\C_Sharp\Ejemplos\ClasesSerializacion\obj\Debug\ClasesSerializacion.csprojResolveAssemblyReference.cache
