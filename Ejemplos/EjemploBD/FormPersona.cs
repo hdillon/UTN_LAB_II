@@ -11,16 +11,16 @@ using System.Data.SqlClient;
 
 namespace EjemploBD
 {
-    public partial class Form1 : Form
+    public partial class FormPersona : Form
     {
         private List<Persona> listaPersonas;
 
-        public Form1()
+        public FormPersona()
         {
             InitializeComponent();
         }
 
-        private void Form1_Load(object sender, EventArgs e)
+        private void FormPersona_Load(object sender, EventArgs e)
         {
             listaPersonas = new List<Persona>();
         }
@@ -51,14 +51,8 @@ namespace EjemploBD
             }
         }
 
-        private void lstPersonas_SelectedIndexChanged(object sender, EventArgs e)
-        {
-            
-        }
-
         private void lstPersonas_DoubleClick(object sender, EventArgs e)
         {
-            //MessageBox.Show(lstPersonas.SelectedIndex.ToString());
             txtNombre.Text = listaPersonas[lstPersonas.SelectedIndex].Nombre;
             txtApellido.Text = listaPersonas[lstPersonas.SelectedIndex].Apellido;
         }

@@ -1,6 +1,6 @@
 ﻿namespace EjemploBD
 {
-    partial class Form1
+    partial class FormPersona
     {
         /// <summary>
         /// Variable del diseñador necesaria.
@@ -78,7 +78,6 @@
             this.lstPersonas.Name = "lstPersonas";
             this.lstPersonas.Size = new System.Drawing.Size(417, 212);
             this.lstPersonas.TabIndex = 4;
-            this.lstPersonas.SelectedIndexChanged += new System.EventHandler(this.lstPersonas_SelectedIndexChanged);
             this.lstPersonas.DoubleClick += new System.EventHandler(this.lstPersonas_DoubleClick);
             // 
             // btnGuardar
@@ -121,7 +120,7 @@
             this.btnLeer.UseVisualStyleBackColor = true;
             this.btnLeer.Click += new System.EventHandler(this.btnLeer_Click);
             // 
-            // Form1
+            // FormPersona
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -135,9 +134,9 @@
             this.Controls.Add(this.label1);
             this.Controls.Add(this.txtApellido);
             this.Controls.Add(this.txtNombre);
-            this.Name = "Form1";
-            this.Text = "Form1";
-            this.Load += new System.EventHandler(this.Form1_Load);
+            this.Name = "FormPersona";
+            this.Text = "Formulario Personas";
+            this.Load += new System.EventHandler(this.FormPersona_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
