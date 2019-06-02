@@ -9,7 +9,7 @@ namespace EjemploGenerics1
     public class Recibo : Documento
     {
 
-        public Recibo() : base (0)
+        public Recibo() : this (0)
         {
 
         }
