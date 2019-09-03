@@ -56,7 +56,7 @@ namespace SobrecargaOperadores
             return unaPersona;
         }
 
-        //Ejemplo operdor de comparación
+        //Ejemplo operador de comparación
         public static bool operator ==(Persona unaPersona, Animal unAnimal)
         {
             return unaPersona.nombre == unAnimal.nombre;
@@ -68,7 +68,7 @@ namespace SobrecargaOperadores
             return unaPersona != unAnimal;
         }
 
-        //Ejemplo operador explicit para poder castear una instancia de persona a string
+        //Ejemplo operador implicit para poder asignar una instancia de persona a un string sin casteo
         public static implicit operator string(Persona unaPersona)
         {
             return string.Format("Nombre: {0} - Apellido: {1} - Edad: {2}", unaPersona.nombre, unaPersona.apellido, unaPersona.edad);
